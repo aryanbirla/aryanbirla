@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Birla</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" widht="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnlkb2lQSWlyWDBqWVluUF9TSkc4VXJRYXJfUXxBQ3Jtc0tucF9hLTJENms2d3FBNlRoUEJMdDhhNm1KSkFvemFPNzdvZDZqOTVHXzlhUFZzcl9USTlweVlnVjhLSHZaM3VXN0Q4Y2ZDZEpKOG5sSzFjRTAya2Z3Q2VpV0lueXl5SzdHNWNvNEVIZWJ1Uk9uX1JPRQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
-
+<img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbirla&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbirla" /> </p>
 
 - 🔭 I’m currently working on **Churn Detection Prediction**
